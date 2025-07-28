@@ -6,16 +6,16 @@
 
     * 2.Buscar conta pelo nome ✅
 
-    * 3.Realizar: 
+    * 3.Realizar: ✅
 
-        - Saque 
+        - Saque ✅
 
-        - Depósito 
+        - Depósito ✅
 
-        - Transferência 
+        - Transferência ✅
 
-    * 4.Persistir as contas em um arquivo contas.json
+    * 4.Persistir as contas em um arquivo contas.json ✅
 
-    * 5.Carregar as contas ao iniciar o programa
+    * 5.Carregar as contas ao iniciar o programa ✅
 
-    * 6.Tratar erros com exceções personalizadas
+    * 6.Tratar erros com exceções personalizadas ✅
