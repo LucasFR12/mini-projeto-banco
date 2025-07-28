@@ -1,0 +1,21 @@
+💼 Exercício Proposto: Mini Sistema de Conta Bancária
+
+📘 Requisitos do exercício:
+
+    * 1.Criar novas contas com nome e saldo inicial ✅
+
+    * 2.Buscar conta pelo nome ✅
+
+    * 3.Realizar: 
+
+        - Saque 
+
+        - Depósito 
+
+        - Transferência 
+
+    * 4.Persistir as contas em um arquivo contas.json
+
+    * 5.Carregar as contas ao iniciar o programa
+
+    * 6.Tratar erros com exceções personalizadas
